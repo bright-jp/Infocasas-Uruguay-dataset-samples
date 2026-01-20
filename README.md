@@ -1,4 +1,4 @@
-# Infocasas Uruguay Properties Dataset Sample
+# Infocasas Uruguay Properties データセットサンプル
 
 <h2>21,859件のレコードを含むサンプルデータセット</h2>
 
