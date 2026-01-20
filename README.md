@@ -3,7 +3,7 @@
 <h2>21,859件のレコードを含むサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
-    <img src="https://github.com/luminati-io/Infocasas-Uruguay-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-jp/Infocasas-Uruguay-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 この **Infocasas Uruguay Properties Dataset Sample** には **21,859件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
