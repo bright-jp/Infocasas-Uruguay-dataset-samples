@@ -1,63 +1,63 @@
 # Infocasas Uruguay Properties Dataset Sample
 
-<h2>A sample dataset of 21,859 records</h2>
+<h2>21,859件のレコードを含むサンプルデータセット</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.jp">
     <img src="https://github.com/luminati-io/Infocasas-Uruguay-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Infocasas Uruguay Properties Dataset Sample** includes **21,859 records** and was extracted using the **Bright Data API**.
+この **Infocasas Uruguay Properties Dataset Sample** には **21,859件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `URL` | The web address of the property listing. |
-| `ID` | Unique identifier for each property listing. |
-| `Imagen` | Links to images of the property listed. |
-| `Descripcion` | Brief description of the property including features and amenities. |
-| `Precio` | The listed price of the property in local currency. |
-| `Ubicacion` | The location details of the property including neighborhood and street. |
-| `Habitaciones` | Number of bedrooms in the property. |
-| `Banos` | Number of bathrooms in the property. |
-| `Dimension_propiedad` | Total area of the property in square meters. |
-| `Dimension_terreno` | Land area of the property in square meters. |
-| `Titulo` | Title of the property listing. |
-| `Phone1` | Primary contact phone number for the property listing. |
-| `Phone2` | Secondary contact phone number for the property listing. |
-| `Email` | Email address for inquiries about the property. |
-| `Seller` | Name of the seller or real estate agent. |
-| `Tipo_de_vendedor` | Type of seller, e.g., agent or owner. |
-| `Estado` | Current state of the property, e.g., available, sold. |
-| `Nueva_usada` | Indicates whether the property is new or used. |
-| `Type` | Type of property, e.g., apartment, house. |
-| `Venta_Arriendo` | Indicates if the property is for sale or rent. |
-| `Region` | Region where the property is located. |
-| `Comuna_Ciudad` | City or commune where the property is located. |
-| `Parqueaderos` | Number of parking spaces available with the property. |
-| `Year` | Year when the property was built or listed. |
-| `Destacado_Superdestacado` | Indicates if the property is featured or highlighted. |
-| `url` | Alternate URL for the property listing. |
-| `seller_id` | Unique identifier for the seller or real estate agent. |
+| `URL` | 物件リスティングのWebアドレスです。 |
+| `ID` | 各物件リスティングの一意の識別子です。 |
+| `Imagen` | 掲載されている物件画像へのリンクです。 |
+| `Descripcion` | 特徴や設備を含む物件の簡単な説明です。 |
+| `Precio` | 現地通貨での物件の掲載価格です。 |
+| `Ubicacion` | 近隣エリアや通りなどを含む物件の所在地詳細です。 |
+| `Habitaciones` | 物件の寝室数です。 |
+| `Banos` | 物件の浴室数です。 |
+| `Dimension_propiedad` | 物件の総面積（平方メートル）です。 |
+| `Dimension_terreno` | 土地面積（平方メートル）です。 |
+| `Titulo` | 物件リスティングのタイトルです。 |
+| `Phone1` | 物件リスティングの主な連絡先電話番号です。 |
+| `Phone2` | 物件リスティングの副次的な連絡先電話番号です。 |
+| `Email` | 物件に関する問い合わせ用のメールアドレスです。 |
+| `Seller` | 売主または不動産エージェントの名前です。 |
+| `Tipo_de_vendedor` | 売主の種別（例：エージェント、オーナー）です。 |
+| `Estado` | 物件の現在の状態（例：販売中、成約済み）です。 |
+| `Nueva_usada` | 物件が新築か中古かを示します。 |
+| `Type` | 物件種別（例：アパート、戸建て）です。 |
+| `Venta_Arriendo` | 物件が販売用か賃貸用かを示します。 |
+| `Region` | 物件が所在する地域です。 |
+| `Comuna_Ciudad` | 物件が所在する市区町村またはコミューンです。 |
+| `Parqueaderos` | 物件に付帯する駐車スペース数です。 |
+| `Year` | 物件の建築年または掲載年です。 |
+| `Destacado_Superdestacado` | 物件が注目（featured）または強調表示されているかを示します。 |
+| `url` | 物件リスティングの代替URLです。 |
+| `seller_id` | 売主または不動産エージェントの一意の識別子です。 |
 
 
 ## Use Cases
 
 ### 1. Real Estate Market Analysis
-Utilize the dataset to analyze property market trends across different regions in Uruguay, aiding investors and realtors in making data-driven decisions.
+このデータセットを活用して、ウルグアイの各地域における不動産市場トレンドを分析し、投資家や不動産業者がデータに基づいた意思決定を行えるよう支援できます。
 
 ### 2. Urban Development Research
-Researchers can use the dataset to study urban expansion, housing affordability, and demographic impacts on real estate in Uruguay.
+研究者はこのデータセットを使用して、都市拡大、住宅の手頃さ、人口動態がウルグアイの不動産に与える影響を研究できます。
 
 ### 3. Competitive Business Intelligence
-Businesses can leverage this data to understand competitor listings, pricing strategies, and market dynamics, optimizing their own offerings.
+企業はこのデータを活用して、競合のリスティング、価格戦略、市場ダイナミクスを把握し、自社の提供内容を最適化できます。
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+データセットは複数の形式で提供されています:
+- **CSV**（このサンプルに含まれています）
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -77,8 +77,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+データセットはさまざまなスケジュールで更新できます:
+- **Once**（単発配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -87,14 +87,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+特定の要件に基づき、追加のデータポイントでデータセットを拡充できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full Infocasas Uruguay Properties dataset](https://brightdata.com/products/datasets/real-estate)**
+**[Get the full Infocasas Uruguay Properties dataset](https://brightdata.jp/products/datasets/real-estate)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiativeは、環境および社会的課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)** および **[ready-to-use datasets](https://brightdata.jp/products/datasets)** への無料アクセスを提供しています。 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+無料アクセスの申請は [brightinitiative.com](https://brightinitiative.com) から行えます。
